@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProyekAkhirCompose</string>
+    <string name="name">Name</string>
+    <string name="desc">Description</string>
+    <string name="awards">Awards</string>
+    <string name="back">Back</string>
+    <string name="brief_desc">Brief Description</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+    <string name="menu_home_desc">home_page</string>
+    <string name="menu_about_desc">about_page</string>
+    <string name="nama">David Johan Hasiholan Parhusip</string>
+    <string name="email">david.johanhp@gmail.com</string>
+    <string name="about">About Me</string>
+</resources>
